@@ -1,4 +1,4 @@
-# Power BI Report on electoral Bond Funding
+# Power BI Report on Electoral Bond Funding
 
 ## Electoral Bond Funding :
 
@@ -98,9 +98,7 @@ Only few SBI branches are authorized to issue and encash Electoral bond  and th
 
 ---
 
-###   Domain Knowledge 
-
-Before we start Analyzing the data we need to have an understanding of our problem statement which is referred as domain knowledge and below section is a little effort to impart that knowledge. 
+###   Domain Knowledge  ###
 
 Each bond is characterized by a prefix and a bond number. While these components individually lack uniqueness, together they form a distinct identification ID. By comparing and matching these unique codes across tables, we can discern the relationship between donors and receivers, thereby identifying the source of monetary donations to specific political parties. 
 
